@@ -1,3 +1,7 @@
+@import "utils/functions";
+@import "utils/mixins";
+@import "utils/variables";
+
 @import "base/reset"; // all resets 
 @import "base/typography";
 
@@ -12,10 +16,6 @@
 
 @import "themes/admin";
 @import "themes/theme";
-
-@import "utils/functions";
-@import "utils/mixins";
-@import "utils/variables";
 
 @import "vendors/bootstrap";
 
